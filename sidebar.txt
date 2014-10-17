@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xpk:home|Door43 (xpk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xpk|d43-xpk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xpk/archive/master.zip|d43-xpk.zip]]
+
+**Recent Changes**
+{{changes>ns = xpk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xpk|Ethnologue data]]
+
